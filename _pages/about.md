@@ -21,9 +21,9 @@ social: true  # includes social icons at the bottom of the page
 Hi, welcome to my website! <br />
 <br>
 
-I am an Assistant Professor at Harland C. Stonecipher School of Business at East Central University. <br /> <br>
+I am a PhD  candidate in Economics at the  University of Oklahoma. <br /> <br>
 
-I completed my Ph.D. in Economics from the University of Oklahoma (OU) in Spring 2024. I work on applied macro issues focusing on political economy, development, and public economics. <br /> 
+ I work on applied macro issues focusing on political economy, development, and public economics. <br /> 
 <br>
 
 You can find a copy of CV <a href=''>here.</a>
