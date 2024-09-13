@@ -23,14 +23,14 @@ Hi, welcome to my website! <br />
 
 I am a PhD  candidate in Economics at the  University of Oklahoma. <br /> <br>
 
- I work on applied macro issues focusing on political economy, development, and public economics. <br /> 
+ I work on applied micro issues focusing on environment and ecology, agricultural economics, international trade, development, and public economics. <br /> 
 <br>
 
 You can find a copy of CV <a href=''>here.</a>
 Please click on the link to access my teaching dossier (statement of teaching philosophy, sample course outlines, and student evaluations) <a href='https://drive.google.com/file/d/1z5G0PW0LeU_AG0Tny1Bot7VTHSq3KNDE/view?usp=sharing'>[Link]</a>. <br />
 <br>
 
-In my free time, I like to read, play Xbox, or make travel plans with my family.  <br /> 
+In my free time, I like to read, camp, or make travel plans with my family.  <br /> 
 <br>
 
 *Note:* Please click on HTML to access paper drafts.
